@@ -27,7 +27,7 @@ export default {
     return {
 
       msg: 'Welcome to Your Vue.js App - On Develop branch',
-      name: 'End by'
+      name: 'End by Evan'
 
     }
   }
