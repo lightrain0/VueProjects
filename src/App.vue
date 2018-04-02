@@ -25,8 +25,8 @@ export default {
   name: 'app',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App',
-      name: 'End'
+      msg: 'Welcome to Your Vue.js App - On Develop branch',
+      name: 'End by'
     }
   }
 }
